@@ -1,95 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T07:00:36.403Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Wmr2in5Iq-LcFTsm4-lf" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T09:30:47.935Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mdLchukGLpkd0LogUMV_" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1817" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="-RT6kspL_kNmGSeejEMf-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=none;strokeColor=#333333;fontSize=16;align=center;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="570" width="12" height="12" as="geometry" />
+          <mxGeometry x="234" y="-980" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=none;strokeColor=#333333;fontSize=16;align=center;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="404" y="1068" width="12" height="12" as="geometry" />
+          <mxGeometry x="234" y="-482" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-46" value="Research Proposal" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="-250" y="-1000" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-47" value="Knowledge Sharing" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="-50" y="-1000" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-48" value="Project Charter" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="150" y="-1000" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-49" value="Project Initiation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="350" y="-1000" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-50" value="Project Planning" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#12AAB5;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="550" width="200" height="30" as="geometry" />
+          <mxGeometry x="550" y="-1000" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-51" value="-Research proposal preparation by Team&amp;nbsp;&lt;br&gt;&lt;br&gt;-Submission of Research proposal to Doctor Shanthi for submitting to Hospital" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="710" width="190" height="120" as="geometry" />
+          <mxGeometry x="-250" y="-840" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-52" value="-Research&amp;nbsp; proposal corrections by Doctor Shanthi&lt;br&gt;- Included Budget for dataset collection by Doctor Shanthi" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-75" y="840" width="190" height="120" as="geometry" />
+          <mxGeometry x="-245" y="-710" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-53" value="-Budget feasibility study and verification by 3i Future Gen Team Management&lt;br&gt;&lt;br&gt;- Budget Approval by 3I Team Future Gen" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="1100" width="190" height="120" as="geometry" />
+          <mxGeometry x="-250" y="-450" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-54" value="-Identifying the process in Echocardiography with continuous discussion to fix the problem statement" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="590" width="190" height="120" as="geometry" />
+          <mxGeometry x="-50" y="-960" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-55" value="-Discussion on Anatomy of Heart and different windows in which echo images are taken&lt;br&gt;&lt;br&gt;- Discussed one window and its structures&amp;nbsp;" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="720" width="190" height="110" as="geometry" />
+          <mxGeometry x="-50" y="-830" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-56" value="-Identified on 19/11/2022 the total number of knowledge sharing sessions needed to get an complete idea on the different&amp;nbsp; windows, its structures and normal /abnormal identifications.&lt;br&gt;" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="840" width="190" height="120" as="geometry" />
+          <mxGeometry x="-50" y="-710" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-57" value="-Fixing Problem statement&lt;br&gt;-Tech Stack Identification" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="590" width="190" height="120" as="geometry" />
+          <mxGeometry x="150" y="-960" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-58" value="-Identification of target audience by Business analyst team" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="720" width="190" height="120" as="geometry" />
+          <mxGeometry x="155" y="-830" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-60" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;-Dataset Collection from Hospital&lt;br&gt;-Cloud requirements for Data set Storage and coding" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="720" width="190" height="120" as="geometry" />
+          <mxGeometry x="355" y="-830" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-61" value="-Technical team formation -Allocation of Technical people who have Computer Vision and deep learning knowledge" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="850" width="190" height="120" as="geometry" />
+          <mxGeometry x="355" y="-700" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-62" value="&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- Skill Upgrade on AI in medical images using deep learning by attending online courses." style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525" y="980" width="190" height="120" as="geometry" />
+          <mxGeometry x="355" y="-570" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-63" value="- Data set storage&amp;nbsp;&lt;br&gt;-Data set preparation&lt;br&gt;&lt;br&gt;-Data set Annotation&lt;br&gt;&lt;br&gt;- Data set preprocessing&lt;br&gt;-Storage of Processed data&lt;br&gt;" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="590" width="190" height="120" as="geometry" />
+          <mxGeometry x="550" y="-960" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-64" value="-Major modules identification&lt;br&gt;-Identification of algorithms for each modules&lt;br&gt;&lt;br&gt;-Identification of sub tasks" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="720" width="190" height="120" as="geometry" />
+          <mxGeometry x="550" y="-830" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-65" value="- Project Scope definition&lt;br&gt;&lt;br&gt;-Project Budget&amp;nbsp;&lt;br&gt;&lt;br&gt;-Work breakdown&amp;nbsp;&lt;br&gt;&lt;br&gt;- Project risks&lt;br&gt;" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="850" width="190" height="120" as="geometry" />
+          <mxGeometry x="550" y="-700" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-66" value="-Research proposal submission to Ethics Board&lt;br&gt;&lt;br&gt;-Research proposal Approval by Ethics Board" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-75" y="1230" width="190" height="120" as="geometry" />
+          <mxGeometry x="-245" y="-320" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-67" value="-Started planning on different categories of images required during dataset collection" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="970" width="190" height="120" as="geometry" />
+          <mxGeometry x="-50" y="-580" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-69" value="-Budget Preparation for Echocardiography project" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="970" width="190" height="120" as="geometry" />
+          <mxGeometry x="-250" y="-580" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-70" value="-Research by Internal team on Echocardiography under the guidance of Doctor Shanthi to identify the project , title and&amp;nbsp; problem statement&amp;nbsp;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-80" y="585" width="190" height="120" as="geometry" />
+          <mxGeometry x="-250" y="-965" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-71" value="-Planned a session on 22/12/22 on the second window.&lt;br&gt;-Doctor Shanthi has to fix on what common abnormalities are to be included in project within one week.&amp;nbsp; &amp;nbsp;" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="1100" width="190" height="120" as="geometry" />
+          <mxGeometry x="-50" y="-450" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-75" value="&lt;h1&gt;AI interpreted Pediatric Echocardiography&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Neonatal&amp;nbsp; (Newborn child ages from 0 to 3 months )&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Pediatric ( child 3 months to 10 years)&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="420" width="410" height="120" as="geometry" />
+          <mxGeometry x="-90" y="-1130" width="410" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-76" value="-Identification of Goals&amp;nbsp;&lt;br&gt;&lt;br&gt;- Identification of Milestones" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="850" width="190" height="120" as="geometry" />
+          <mxGeometry x="155" y="-700" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-105" value="-Completion of Knowledge sharing from Doctor Shanthi including identification of structures within all required windows and Identification of&amp;nbsp;&lt;br&gt;Normal and abnormalities&amp;nbsp; within required windows.&lt;br&gt;" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="590" width="190" height="120" as="geometry" />
+          <mxGeometry x="350" y="-960" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
