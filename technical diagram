@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T09:32:58.486Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="20.7.4" etag="_dpzM7dTsNiqVDZRW3OV" type="github"><diagram id="Kqzxr2rTUr93fq1JxZee">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-20T10:54:36.969Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="20.7.4" etag="43tz3P0JXS8eraBg9Pq3" type="github">
+  <diagram id="aX4wvOLr0OYmdOTve4-i" name="Page-1">
+    <mxGraphModel dx="810" dy="1503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uR64VXemffq4yDetxN1w-2" value="Physician" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-4" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];fontColor=#000000;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="296" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-5" value="Step 1" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="uR64VXemffq4yDetxN1w-4">
+          <mxGeometry x="10" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-6" value="Step 2" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="uR64VXemffq4yDetxN1w-4">
+          <mxGeometry x="98" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-7" value="Step 3" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="uR64VXemffq4yDetxN1w-4">
+          <mxGeometry x="186" y="33" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="90" as="sourcePoint" />
+            <mxPoint x="230" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-14" value="Take Ultrasound image&lt;br&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="uR64VXemffq4yDetxN1w-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-16" value="Sonographer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="50" width="162" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-18" value="Interpretation of Echoimages&amp;nbsp; to identify whether echo is normal or abnormal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="84.5" as="sourcePoint" />
+            <mxPoint x="570" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-20" value="Take Decision for Diagnosis" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="uR64VXemffq4yDetxN1w-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-5" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR64VXemffq4yDetxN1w-21" value="&lt;h1&gt;Echo Cardiography Business Process Diagram&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-120" width="360" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
