@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T05:58:21.017Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EBbVGhgg2lne1vAADboV" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-20T06:59:53.386Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cHgzDh8Bdt_Y8rx9keOf" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1637" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,7 +31,7 @@
         <mxCell id="-RT6kspL_kNmGSeejEMf-52" value="-Research&amp;nbsp; proposal corrections by Doctor Shanthi&lt;br&gt;- Included Budget for dataset collection by Doctor Shanthi" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-75" y="840" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-RT6kspL_kNmGSeejEMf-53" value="-Budget verification by 3i Future Gen Team Management&lt;br&gt;&lt;br&gt;- Budget Approval by 3I Team Future Gen" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-RT6kspL_kNmGSeejEMf-53" value="-Budget feasibility study and verification by 3i Future Gen Team Management&lt;br&gt;&lt;br&gt;- Budget Approval by 3I Team Future Gen" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-80" y="1100" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-RT6kspL_kNmGSeejEMf-54" value="-Identifying the process in Echocardiography with continuous discussion to fix the problem statement" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
